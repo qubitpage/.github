@@ -13,7 +13,38 @@
 
 ---
 
-## 🚀 Quantum Computing Products
+<div align="center">
+
+## 🏆 &nbsp;HACKATHON WINNER — 1ST PLACE&nbsp; 🏆
+
+<a href="https://lablab.ai/ai-hackathons/launch-fund-ai-meets-robotics">
+<img src="https://img.shields.io/badge/🥇_1ST_PLACE-lablab.ai_AI_Meets_Robotics_2026-FFD700?style=for-the-badge&labelColor=1a1a2e&color=FFD700" />
+</a>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🥇  lablab.ai  ·  AI Meets Robotics Hackathon  ·  2026        ║
+║                                                                  ║
+║   CarphaCom Robotised — AI-Powered Warehouse Robotics            ║
+║   NVIDIA Isaac Sim  ·  Google Gemini AI  ·  MedusaJS             ║
+║                                                                  ║
+║          ████████████████   1ST PLACE   ████████████████         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+**[🔗 View the winning hackathon →](https://lablab.ai/ai-hackathons/launch-fund-ai-meets-robotics)**
+&nbsp;&nbsp;**[📦 View the winning repo →](https://github.com/msrusu87-web/CarphaCom-Robotised-E-Commerce)**
+&nbsp;&nbsp;**[🌐 Live demo →](https://qubitpage.com/products/carphacom-robotised)**
+
+> *Out of hundreds of international teams, CarphaCom Robotised took **1st place** at the lablab.ai AI Meets Robotics 2026 hackathon — combining NVIDIA Isaac Sim warehouse robotics simulation with Google Gemini AI navigation and a full MedusaJS e-commerce backend.*
+
+</div>
+
+---
+
+## 🚀 Quantum Computing Platform
 
 <table>
 <tr>
@@ -25,6 +56,7 @@
 
 [![Repo](https://img.shields.io/badge/GitHub-QubitPage--OS-00d4ff?style=flat-square&logo=github)](https://github.com/qubitpage/QubitPage-OS)
 [![Live](https://img.shields.io/badge/Live-qubitpage.com-00ff88?style=flat-square)](https://qubitpage.com)
+[![Winner](https://img.shields.io/badge/🏆_lablab.ai-Winner-FFD700?style=flat-square)](https://lablab.ai/ai-hackathons/launch-fund-ai-meets-robotics)
 
 A complete desktop OS running in the browser — with QLang circuit lab, MedGemma AI, IBM Quantum hardware access, and 13 drug candidates discovered.
 
@@ -38,6 +70,7 @@ A complete desktop OS running in the browser — with QLang circuit lab, MedGemm
 **Quantum BIOS — Fault-Tolerant Quantum Middleware**
 
 [![Repo](https://img.shields.io/badge/GitHub-QuBIOS-a855f7?style=flat-square&logo=github)](https://github.com/qubitpage/QuBIOS)
+[![Winner](https://img.shields.io/badge/🏆_lablab.ai-Winner-FFD700?style=flat-square)](https://lablab.ai/ai-hackathons/launch-fund-ai-meets-robotics)
 
 A dual-layer quantum error correction + virtual qubit escort system. Turns noisy 156-qubit IBM Fez into a reliable quantum computer with **99.80% Bell state fidelity**.
 
@@ -51,6 +84,7 @@ A dual-layer quantum error correction + virtual qubit escort system. Turns noisy
 **The Quantum Programming Language**
 
 [![Repo](https://img.shields.io/badge/GitHub-QLang-f59e0b?style=flat-square&logo=github)](https://github.com/qubitpage/QLang)
+[![Winner](https://img.shields.io/badge/🏆_lablab.ai-Winner-FFD700?style=flat-square)](https://lablab.ai/ai-hackathons/launch-fund-ai-meets-robotics)
 
 Human-readable quantum programming language. Write circuits in plain syntax, compile to QASM/Qiskit, run on **IBM Torino, Fez, Marrakesh** (156 qubits).
 
@@ -96,12 +130,13 @@ A production-ready e-commerce platform built on **MedusaJS + Next.js** — with 
 <td width="50%" align="center">
 
 ### 🤖 CarphaCom Robotised — AI Warehouse
-**AI-Powered Robotics Simulation for E-Commerce**
+**🥇 lablab.ai AI Meets Robotics 2026 — 1st Place Winner**
 
+[![Winner](https://img.shields.io/badge/🥇_1ST_PLACE-lablab.ai_2026-FFD700?style=flat-square)](https://lablab.ai/ai-hackathons/launch-fund-ai-meets-robotics)
 [![Live](https://img.shields.io/badge/Live-qubitpage.com/products/carphacom--robotised-00ff88?style=flat-square)](https://qubitpage.com/products/carphacom-robotised)
-[![Repo](https://img.shields.io/badge/GitHub-CarphaCom--Robotised-f59e0b?style=flat-square&logo=github)](https://github.com/msrusu87-web/CarphaCom-Robotised-E-Commerce)
+[![Repo](https://img.shields.io/badge/GitHub-CarphaCom--Robotised-181717?style=flat-square&logo=github)](https://github.com/msrusu87-web/CarphaCom-Robotised-E-Commerce)
 
-AI-powered warehouse robotics simulation with **NVIDIA Isaac Sim**, **Google Gemini AI** navigation, and MedusaJS e-commerce. Built for the lablab.ai *AI Meets Robotics Hackathon*.
+AI-powered warehouse robotics simulation with **NVIDIA Isaac Sim**, **Google Gemini AI** navigation, and MedusaJS e-commerce. **1st place winner** at the lablab.ai *AI Meets Robotics Hackathon 2026*.
 
 **Tech:** NVIDIA Isaac Sim · Google Gemini AI · MedusaJS · Python · ROS2
 
@@ -115,7 +150,10 @@ AI-powered warehouse robotics simulation with **NVIDIA Isaac Sim**, **Google Gem
 ## 🧪 What We Build
 
 ```
-QubitPage® Research Stack
+QubitPage® Research & Product Stack
+│
+├── 🏆  lablab.ai AI Meets Robotics 2026 — 1ST PLACE WINNER
+│   └── CarphaCom Robotised — NVIDIA Isaac Sim + Google Gemini AI
 │
 ├── 🖥️  Quantum OS         — Full web OS with IBM Quantum + AI drug discovery
 │   ├── QLang             — Quantum programming language & browser SDK
@@ -127,7 +165,7 @@ QubitPage® Research Stack
 │
 └── 🛒  E-Commerce          — Enterprise commerce with AI & robotics
     ├── CarphaCom         — Classic full-stack MedusaJS platform
-    └── CarphaCom Robotised — NVIDIA Isaac Sim + Gemini AI warehouse
+    └── CarphaCom Robotised — 🥇 1st Place · NVIDIA Isaac Sim + Gemini AI
 ```
 
 ---
@@ -153,10 +191,11 @@ QubitPage® Research Stack
 
 ---
 
-## 🌍 Research Achievements
+## 🌍 Research & Achievements
 
 | Metric | Result |
 |--------|--------|
+| 🥇 Hackathon wins | **1st Place — lablab.ai AI Meets Robotics 2026** |
 | 💊 Drug candidates discovered | **13 novel molecules** |
 | 🧬 Diseases targeted | GBM · ALS · Alzheimer's · TB · IPF · Parkinson's |
 | ⚛️ IBM Quantum hardware | IBM Fez (156 qubits) · IBM Torino · IBM Marrakesh |
@@ -173,7 +212,7 @@ QubitPage® Research Stack
 
 **📧 [contact@qubitpage.com](mailto:contact@qubitpage.com)**
 
-**🌐 [qubitpage.com](https://qubitpage.com)** &nbsp;|&nbsp; **🐙 [github.com/qubitpage](https://github.com/qubitpage)**
+**🌐 [qubitpage.com](https://qubitpage.com)** &nbsp;|&nbsp; **🐙 [github.com/qubitpage](https://github.com/qubitpage)** &nbsp;|&nbsp; **🏆 [lablab.ai Winner](https://lablab.ai/ai-hackathons/launch-fund-ai-meets-robotics)**
 
 ---
 
