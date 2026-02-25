@@ -195,7 +195,6 @@ QubitPage® Research & Product Stack
 
 | Metric | Result |
 |--------|--------|
-| 🥇 Hackathon wins | **1st Place — lablab.ai AI Meets Robotics 2026** |
 | 💊 Drug candidates discovered | **13 novel molecules** |
 | 🧬 Diseases targeted | GBM · ALS · Alzheimer's · TB · IPF · Parkinson's |
 | ⚛️ IBM Quantum hardware | IBM Fez (156 qubits) · IBM Torino · IBM Marrakesh |
