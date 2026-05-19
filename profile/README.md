@@ -44,6 +44,22 @@
 
 ---
 
+## 🌐 Vultr Atlas + Omniverse
+
+<div align="center">
+
+### Live 3D Infrastructure Cockpit for Vultr
+
+[![Live](https://img.shields.io/badge/Live-atlas.qubitpage.com-00ff88?style=for-the-badge)](https://atlas.qubitpage.com)
+[![Repo](https://img.shields.io/badge/GitHub-vultr--atlas--omniverse-181717?style=for-the-badge&logo=github)](https://github.com/qubitpage/vultr-atlas-omniverse)
+[![Stack](https://img.shields.io/badge/Next.js_15_%2B_Three.js_%2B_Omniverse-00d4ff?style=for-the-badge)](https://github.com/qubitpage/vultr-atlas-omniverse)
+
+Vultr Atlas maps a live Vultr fleet onto a rotating 3D globe, embeds admin-only VS Code Web with Copilot Chat, streams Gemini orchestration, and includes NVIDIA Isaac Sim / Omniverse GPU streaming integration assets.
+
+</div>
+
+---
+
 ## 🚀 Quantum Computing Platform
 
 <table>
