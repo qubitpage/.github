@@ -17,13 +17,13 @@
 
 <div align="center">
 
-<a href="https://github.com/qubitpage/carpathron"><img src="https://raw.githubusercontent.com/qubitpage/carpathron/main/assets/brand/carpathron-social-1280x640.png" alt="Carpathron — robots you can talk to, drive and become" width="760" /></a>
+<a href="https://github.com/qubitpage/carpathron-muse"><img src="https://raw.githubusercontent.com/qubitpage/carpathron-muse/main/assets/brand/carpathron-social-1280x640.png" alt="Carpathron — robots you can talk to, drive and become" width="760" /></a>
 
 ### Robots you can talk to, drive and become — powered by Meta Muse
 
-[![Repo](https://img.shields.io/badge/GitHub-qubitpage%2Fcarpathron-181717?style=for-the-badge&logo=github)](https://github.com/qubitpage/carpathron)
-[![Download](https://img.shields.io/badge/⬇️_Download-Windows_%2B_Quest_apps-f97316?style=for-the-badge)](https://github.com/qubitpage/carpathron/tree/main/downloads)
-[![Hackathon](https://img.shields.io/badge/Meta-Global_AI_Developer_Hackathon_2026-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/qubitpage/carpathron)
+[![Repo](https://img.shields.io/badge/GitHub-qubitpage%2Fcarpathron--muse-181717?style=for-the-badge&logo=github)](https://github.com/qubitpage/carpathron-muse)
+[![Download](https://img.shields.io/badge/⬇️_Download-Windows_%2B_Quest_apps-f97316?style=for-the-badge)](https://github.com/qubitpage/carpathron-muse#%EF%B8%8F-download)
+[![Hackathon](https://img.shields.io/badge/Meta-Global_AI_Developer_Hackathon_2026-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/qubitpage/carpathron-muse)
 
 </div>
 
@@ -37,7 +37,7 @@ Built for the **Meta Global AI Developer Hackathon 2026 (Startup track)**: one M
 
 **Tech:** Meta Muse Spark · Muse Voice Transcribe · Electron · Node.js · Godot 4 OpenXR · ESP32-CAM · WhatsApp
 
-**[📦 View the repo →](https://github.com/qubitpage/carpathron)** &nbsp;&nbsp;**[⬇️ Download the apps →](https://github.com/qubitpage/carpathron/tree/main/downloads)** &nbsp;&nbsp;**[📘 A-to-Z guide →](https://github.com/qubitpage/carpathron/blob/main/docs/GUIDE.md)**
+**[📦 View the repo →](https://github.com/qubitpage/carpathron-muse)** &nbsp;&nbsp;**[⬇️ Download the apps →](https://github.com/qubitpage/carpathron-muse#%EF%B8%8F-download)** &nbsp;&nbsp;**[📘 A-to-Z guide →](https://github.com/qubitpage/carpathron-muse/blob/main/docs/GUIDE.md)**
 
 ---
 
