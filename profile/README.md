@@ -13,6 +13,34 @@
 
 ---
 
+## 🤖 &nbsp;LATEST PROJECT — CARPATHRON
+
+<div align="center">
+
+<a href="https://github.com/qubitpage/carpathron"><img src="https://raw.githubusercontent.com/qubitpage/carpathron/main/assets/brand/carpathron-social-1280x640.png" alt="Carpathron — robots you can talk to, drive and become" width="760" /></a>
+
+### Robots you can talk to, drive and become — powered by Meta Muse
+
+[![Repo](https://img.shields.io/badge/GitHub-qubitpage%2Fcarpathron-181717?style=for-the-badge&logo=github)](https://github.com/qubitpage/carpathron)
+[![Download](https://img.shields.io/badge/⬇️_Download-Windows_%2B_Quest_apps-f97316?style=for-the-badge)](https://github.com/qubitpage/carpathron/tree/main/downloads)
+[![Hackathon](https://img.shields.io/badge/Meta-Global_AI_Developer_Hackathon_2026-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/qubitpage/carpathron)
+
+</div>
+
+Built for the **Meta Global AI Developer Hackathon 2026 (Startup track)**: one Muse brain, one open robot protocol, every way to reach your robot.
+
+| | |
+|---|---|
+| 🧠 **Muse Carpathron** (Windows 10/11/Server) | Chat + agent on **Meta Muse Spark**, tools, MCP, RAG memory, WhatsApp text & **voice** commands, robot control, room mapping |
+| 🥽 **Carpathron Avatar** (Meta Quest 3/3S) | Native OpenXR app — see through the robot's camera, drive with the controllers, **turn your head and the robot turns**, talk to Muse |
+| 🚗 **Baby Carpathron** (ESP32-CAM car) | Live video, RC-style continuous driving, photos, Wi-Fi setup, open **Carpathron Robot Protocol** |
+
+**Tech:** Meta Muse Spark · Muse Voice Transcribe · Electron · Node.js · Godot 4 OpenXR · ESP32-CAM · WhatsApp
+
+**[📦 View the repo →](https://github.com/qubitpage/carpathron)** &nbsp;&nbsp;**[⬇️ Download the apps →](https://github.com/qubitpage/carpathron/tree/main/downloads)** &nbsp;&nbsp;**[📘 A-to-Z guide →](https://github.com/qubitpage/carpathron/blob/main/docs/GUIDE.md)**
+
+---
+
 <div align="center">
 
 ## 🏆 &nbsp;HACKATHON WINNER — 1ST PLACE&nbsp; 🏆
@@ -167,6 +195,9 @@ AI-powered warehouse robotics simulation with **NVIDIA Isaac Sim**, **Google Gem
 
 ```
 QubitPage® Research & Product Stack
+│
+├── 🤖 Meta Global AI Developer Hackathon 2026 — Carpathron (latest)
+│   └── Meta Muse robots: Windows agent · WhatsApp voice · Quest avatar · ESP32 car
 │
 ├── 🏆  lablab.ai AI Meets Robotics 2026 — 1ST PLACE WINNER
 │   └── CarphaCom Robotised — NVIDIA Isaac Sim + Google Gemini AI
