@@ -96,13 +96,13 @@ Vultr Atlas maps a live Vultr fleet onto a rotating 3D globe, embeds admin-only 
 <td width="33%" align="center">
 
 ### ⚛️ QubitPage® OS
-**The world's first browser-based Quantum Operating System**
+**A browser-based desktop for learning quantum computing and AI**
 
 [![Repo](https://img.shields.io/badge/GitHub-QubitPage--OS-00d4ff?style=flat-square&logo=github)](https://github.com/qubitpage/QubitPage-OS)
 [![Live](https://img.shields.io/badge/Live-qubitpage.com-00ff88?style=flat-square)](https://qubitpage.com)
 [![Winner](https://img.shields.io/badge/🏆_lablab.ai-Winner-FFD700?style=flat-square)](https://lablab.ai/ai-hackathons/launch-fund-ai-meets-robotics)
 
-A complete desktop OS running in the browser — with QLang circuit lab, MedGemma AI, IBM Quantum hardware access, and 13 drug candidates discovered.
+A desktop-style OS in the browser with the QLang terminal and circuit lab (Stim simulator), optional IBM Quantum access with your own token, textbook algorithm demos, the QuBIOS lab and an AI research assistant. Its drug-discovery and medical tools are education-only simulations, not validated results.
 
 **Tech:** Python · Flask · SocketIO · IBM Qiskit · MedGemma · Gemini AI
 
@@ -111,28 +111,28 @@ A complete desktop OS running in the browser — with QLang circuit lab, MedGemm
 <td width="33%" align="center">
 
 ### 🔬 QuBIOS
-**Quantum BIOS — Fault-Tolerant Quantum Middleware**
+**Measured quantum error-correction & entanglement toolkit**
 
 [![Repo](https://img.shields.io/badge/GitHub-QuBIOS-a855f7?style=flat-square&logo=github)](https://github.com/qubitpage/QuBIOS)
 [![Winner](https://img.shields.io/badge/🏆_lablab.ai-Winner-FFD700?style=flat-square)](https://lablab.ai/ai-hackathons/launch-fund-ai-meets-robotics)
 
-A dual-layer quantum error correction + virtual qubit escort system. Turns noisy 156-qubit IBM Fez into a reliable quantum computer with **99.80% Bell state fidelity**.
+Steane [[7,1,3]] memory with real decoding, plus ~40 jobs on 3 IBM Heron QPUs (7 Nov 2026). A **[[4,2,2]] logical Bell pair beat the best physical pair on all 3 devices** (97.7% vs 89.7% at 10 µs), and a 9-qubit repetition code held a qubit ~150 µs at **3.0% error vs 41–75% bare**. Negative results (Transit Ring, conveyor) are published too. [Hardware report](https://github.com/qubitpage/QuBIOS/blob/main/docs/HARDWARE_REPORT_2026-11-07.md)
 
-**Tech:** Stim · Qiskit · Steane [[7,1,3]] QEC · Cirq
+**Tech:** Stim · Qiskit · PyMatching · Tesseract decoder · IBM Quantum
 
 </td>
 
 <td width="33%" align="center">
 
 ### 🧬 QLang
-**The Quantum Programming Language**
+**A beginner-friendly quantum command language**
 
 [![Repo](https://img.shields.io/badge/GitHub-QLang-f59e0b?style=flat-square&logo=github)](https://github.com/qubitpage/QLang)
 [![Winner](https://img.shields.io/badge/🏆_lablab.ai-Winner-FFD700?style=flat-square)](https://lablab.ai/ai-hackathons/launch-fund-ai-meets-robotics)
 
-Human-readable quantum programming language. Write circuits in plain syntax, compile to QASM/Qiskit, run on **IBM Torino, Fez, Marrakesh** (156 qubits).
+Readable, line-by-line commands (ENTANGLE, GHZ, GROVER, TELEPORT…) that the QubitPage® OS interpreter turns into circuits and runs on the Stim simulator, or on IBM Quantum with your own token. Built for students and newcomers.
 
-**Tech:** Python · QASM · Qiskit · Browser SDK · IBM Quantum
+**Tech:** JavaScript · Browser SDK · Stim · IBM Quantum (optional)
 
 </td>
 
@@ -147,7 +147,7 @@ Human-readable quantum programming language. Write circuits in plain syntax, com
 
 <img src="https://raw.githubusercontent.com/qubitpage/QubitPage-OS/main/docs/screenshot-main.png" alt="QubitPage® OS Desktop" width="900" />
 
-*QubitPage® OS — browser-based quantum desktop with 20 app icons, IBM Quantum integration, MedGemma AI diagnosis, AI drug discovery, and a full QLang circuit lab*
+*QubitPage® OS — browser-based quantum desktop with 20 apps, optional IBM Quantum access, a QLang circuit lab and education-only medical-AI and drug-simulation sandboxes*
 
 </div>
 
@@ -202,13 +202,13 @@ QubitPage® Research & Product Stack
 ├── 🏆  lablab.ai AI Meets Robotics 2026 — 1ST PLACE WINNER
 │   └── CarphaCom Robotised — NVIDIA Isaac Sim + Google Gemini AI
 │
-├── 🖥️  Quantum OS         — Full web OS with IBM Quantum + AI drug discovery
+├── 🖥️  Quantum OS         — Browser desktop for learning quantum computing + AI
 │   ├── QLang             — Quantum programming language & browser SDK
-│   └── QuBIOS            — Fault-tolerant quantum error correction layer
+│   └── QuBIOS            — Measured QEC toolkit, tested on 3 IBM Heron QPUs
 │
-├── 💊  Medical AI          — MedGemma disease diagnosis, ADMET, research
-│   ├── QuantumDrug       — 13 novel drug candidates (GBM, ALS, Alzheimer's, TB)
-│   └── MedLab            — Real patient case analysis & reporting tools
+├── 💊  Medical AI          — Education sandbox for open medical models (not for diagnosis)
+│   ├── QuantumDrug       — VQE demo on toy Hamiltonians (illustrative only)
+│   └── MedLab            — Learning tools for medical-AI models
 │
 └── 🛒  E-Commerce          — Enterprise commerce with AI & robotics
     ├── CarphaCom         — Classic full-stack MedusaJS platform
@@ -242,11 +242,12 @@ QubitPage® Research & Product Stack
 
 | Metric | Result |
 |--------|--------|
-| 💊 Drug candidates discovered | **13 novel molecules** |
-| 🧬 Diseases targeted | GBM · ALS · Alzheimer's · TB · IPF · Parkinson's |
-| ⚛️ IBM Quantum hardware | IBM Fez (156 qubits) · IBM Torino · IBM Marrakesh |
-| 🔬 Bell state fidelity | **99.80%** via QuBIOS Transit Ring |
-| ⏱️ Qubit lifespan extension | **5×** vs baseline |
+| ⚛️ IBM Quantum hardware | ~40 jobs on IBM Heron r2: ibm_fez · ibm_marrakesh · ibm_kingston (156 qubits), 7 Nov 2026 |
+| 🔗 Logical Bell pair ([[4,2,2]]) | Beat the best physical pair on **all 3 devices** (97.7% vs 89.7% at 10 µs) |
+| 🛡️ Repetition code (9 qubits) | **3.0%** error after ~150 µs vs 41–75% for a bare qubit |
+| 📉 GHZ noise scaling | Decay ∝ N^0.7–1.0: independent per-qubit noise, no "superdecoherence" |
+| ❌ Honest negatives | Steane decoding and the Transit Ring relay did not beat bare qubits on hardware |
+| 🧾 Reproducible | Every job ID and raw number published in the [QuBIOS hardware report](https://github.com/qubitpage/QuBIOS/blob/main/docs/HARDWARE_REPORT_2026-11-07.md) |
 | 🖥️ OS apps available | **20 desktop apps** in browser |
 | 📱 Device support | Desktop · Tablet · Mobile (fully responsive) |
 
